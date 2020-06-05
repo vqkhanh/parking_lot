@@ -1,13 +1,15 @@
 # parking_lot
-####Build:
-cd parking_lot/build/cmake
 
-make
+#### Build:
 
-./parking_lot
+- cd parking_lot/build/cmake
+
+- make
+
+- ./parking_lot
 
 
-####Run:
-cd /bin
+#### Run:
+- cd /bin
 
-./parking_lot
+- ./parking_lot
